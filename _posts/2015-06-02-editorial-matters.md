@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Editorial Matters: Data, Truth, and Authorship in the Archives'
+title: 'Editorial Matters: Data, Truth, and Interpretation in the Archives'
 ---
 
 *This is a paper given at the [Digital Antiquarian Conference & Workshop](http://www.americanantiquarian.org/digitalantiquarian) in response to the Editorial Matters panel on May 29, 2015 in Worcester, MA.*
