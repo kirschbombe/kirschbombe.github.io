@@ -5,10 +5,10 @@ dh:
     snippet: "Presented at the 2015 Digital Antiquarian Conference in Worcester, MA"
     avatar: "/assets/images/dapaper.jpg"
 
-  # - title: "Digital Scholarly Editing with TEI"
-  #   url: /2015/06/01/daw-tei/index.html
-  #   snippet: "A workshop for participants of the 2015 Digital Antiquarian Workshop"
-  #   avatar: "/assets/images/daw-tei.jpg"
+  - title: "Digital Scholarly Editing with TEI"
+    url: /2015/06/01/daw-tei/index.html
+    snippet: "A workshop for participants of the 2015 Digital Antiquarian Workshop"
+    avatar: "/assets/images/daw-tei2.png"
 
   - title: "Mapping Maupassant's Bel-Ami"
     url: /2015/06/01/mapping-belami/index.html
