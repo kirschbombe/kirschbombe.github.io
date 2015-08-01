@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Dawn Childress</title>
+ <link href="http://dawnchildress.com/atom.xml" rel="self"/>
+ <link href="http://dawnchildress.com/"/>
+ <updated>2015-08-01T14:42:00-04:00</updated>
+ <id>http://dawnchildress.com</id>
+ <author>
+   <name>Dawn Childress</name>
+   <email>kirschbombe@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Editorial Matters: Data, Truth, and Authorship in the Archives</title>
+   <link href="http://dawnchildress.com/2015/06/02/editorial-matters/"/>
+   <updated>2015-06-02T00:00:00-04:00</updated>
+   <id>http://dawnchildress.com/2015/06/02/editorial-matters</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;This is a paper given at the &lt;a href=&quot;http://www.americanantiquarian.org/digitalantiquarian&quot;&gt;Digital Antiquarian Conference &amp;amp; Workshop&lt;/a&gt; in response to the Editorial Matters panel on May 29, 2015 in Worcester, MA.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;True to the title of our panel “Editorial Matters,” the presenters have explored some of the thornier issues of editorial work, both practical and philosophical. While the papers discuss three very different editorial projects, each with its own set of questions and theoretical approaches, there emerged for me three distinct &lt;em&gt;themes&lt;/em&gt; throughout the papers — two of which I’ve been thinking about for some time; the third, a topic I’m now mulling over since reading the papers. For my response, I’d like to situate these themes in a broader context — one where I’m considering the “editorial matters” of digital work more generally, to include not just the discrete digital projects that belong to the domain of the digital humanities or scholarly editions, but the digital collections, databases, text corpora, and other large scale projects of cultural institutions as well. I would argue that these three themes are central to and should actively inform the work of libraries, cultural heritage centers, and other keepers of the record, namely, how we editorialize and expose the work of digital libraries, digital texts, and other digital projects, and how this work can or should support the editorial AND explorative work of scholars.&lt;/p&gt;
+
+&lt;p&gt;To introduce the first (and most obvious) theme, I’ll begin with a story — a librarian, archivist, digital library developer, and historian walk into a bar [actually a Napa-esque farm-to-table restaurant where they enjoyed a lovely Malbec]… What did they talk about while sharing their Malbec? — why, archives and data, of course. More specifically, &lt;strong&gt;text and document as data and mark-up as data modeling&lt;/strong&gt;. The conversation mirrored in many ways the trajectory of the papers, touching on the virtues of finding aids, catalog records, and encoded objects as aggregations of discrete data elements; lauding the promise of this data to support new use cases and research questions, and to facilitate the reconstruction, re-interpretation, and re-organization of objects and their contexts; and lamenting that, as &lt;a href=&quot;http://www.craigcarey.net/blog/2015/06/12/the-digital-antiquarian/&quot;&gt;Craig&lt;/a&gt; put it, the “conventions of print continue to hold sway, making it difficult to liberate and rearrange data elements into new configurations and formats.” All agreed that our digital libraries need to do more than facilitate search and retrieval. Increasingly, scholars see the data of archives and special collections as material for research; from inscribed and linguistic content, physical characteristics, and object context - our descriptions document much of this data. Researchers want to interact with, contribute to, and mine these rich stores that for so long have been in service of the more process-oriented functions like searching, browsing, and filtering. &lt;/p&gt;
+
+&lt;p&gt;Sayeed Choudhury has said that data is the new special collections, and this is a trend we are certainly witnessing in libraries. I would like to add, perhaps, given the ever-growing interest in humanities data, that &lt;strong&gt;special collections and archives are the new data&lt;/strong&gt; — “whose counting and indexing power not only opens archival objects to new configurations,” but to new interpretations and methodologies as well.&lt;/p&gt;
+
+&lt;p&gt;This brings us around to the second theme: &lt;strong&gt;truth in description, or, the ontological/normative vs. the hermeneutical&lt;/strong&gt;. This theme is less developed for me, but I think the questions raised by the panelists that speak to the problem of “truth in description” are important ones, especially as we begin to consider the work of scholars and libraries in this area in terms of data modeling — we’re engaging in descriptive acts that transcend the ontological/normative framework within which digital libraries and many digital projects necessarily operate, to a level of hermeneutical description that is both the product of and foundation for research.&lt;/p&gt;
+
+&lt;p&gt;Our panelists are working in the realm of the hermeneutical as they actively engage in interpreting and re-contextualizing aspects of their subjects; but even a robust standard like TEI, which embraces interpretation, is ruled by norms and presents challenges to editors pushing interpretive and descriptive boundaries, whether it’s overlapping hierarchies or lack of a good data model for giving context to poems reprinted in newspapers. Both the &lt;a href=&quot;http://slideplayer.com/slide/4903677/&quot;&gt;Lowell&lt;/a&gt; and Whitman projects are potentially restrained by the encoding conventions of Scholarly Editing and the Walt Whitman Archive, respectively. These frameworks offer a larger context for the project, but the trade-off is restriction of how the data might be modeled and received.  In the end, it is the content management system or framework that confines the data to an ontological or normative system of description.&lt;/p&gt;
+
+&lt;p&gt;Of course, this shouldn’t stop us from doing the interpretive data work. Jess and Todd ask, “Are 100 reprints enough? Should they build on the work of the &lt;a href=&quot;http://www.scholarlyediting.org/2015/editions/intro.lowelledition.html&quot;&gt;Scholarly Editing edition&lt;/a&gt; or start anew?” We might ask at what point are they approaching “truth” in the description/depiction of Lowell’s work? of its publication history? A framework that can support hermeneutical description can support multiple interpretations and contexts and iterations thereof.  These iterative layers of description lend themselves to new interpretations and visualizations, built on the work of earlier interpreters, and open the door to more reuse and collaboration.  As long as the data remains open, the usefulness of the original work can persist.  Just as Jess and Todd’s vision for their project seems infinite, so do the possibilities when transforming the work of describing and recording into data work, data that is meant to be interpreted — it frees us to think modularly and collaboratively about archival research.&lt;/p&gt;
+
+&lt;p&gt;Two of our papers spoke explicitly about the idea of the &lt;strong&gt;“self-aware” text&lt;/strong&gt;, in Lowell’s Wilbur and in the exposed organization of Whitman’s “Words”;  the third could be said to be “self-referential” at the least considering Gilman’s ample documentation of production and process.  These texts or assemblages are aware of and even boasting their own editorial or organizational apparatus. Editorial work also results in a self-aware or, at least, self-referential object. We adopt editorial approaches which we outline in prefaces and we record our editorial decisions, revisions, and conventions within the appropriate TEI header tag; but what of the description and organization of finding aids, object in databases, our catalogues?  The rationales, interpretations, and contexts behind a finding aid or database structure are buried in the practices of a discipline; apparent to the initiated, but perhaps the underlying motivations long forgotten.  From the ontological and normative structures of MARC records and EAD to the notion of &lt;em&gt;respect des fonds&lt;/em&gt;, these are not neutral descriptions nor organizational structures, and they carry with them priorities and interpretations of those that defined these systems perhaps decades ago.&lt;/p&gt;
+
+&lt;p&gt;The line delineating what belongs to the text has always been a moving target, even before the digital. In the editorial work of the panelists, we see this target as it moves between the author’s intervention, the interventions of previous editors, and those of our panelists.  Just as these texts are somehow “self-aware,”  shouldn’t our larger ecosystem of digital work, whether database, digital text collection, or other digital project, be self-aware in that they also tell the story of their organization, context, and interpretation, allowing the “reader” to decide for themselves what belongs to the text or object and what belongs to the organizational or editorial process?&lt;/p&gt;
+
+&lt;p&gt;The work of our panelists, and of the editors that came before them, are and have been pushing the boundaries of description and what is means to edit and document the cultural record.  Cultural institutions should be looking here, and to the work of scholars using these resources, for vision and direction as well as solutions for our institutional digital endeavors. &lt;/p&gt;
+
+&lt;p&gt;This is all to say, how we make these collections, this data, available — our interfaces, infrastructure, and search &amp;amp; browse functions — need to catch up with the needs of scholars.  Building or adopting platforms or frameworks that allow scholars to build on and contribute to the contextual and interpretive record, work that can be reused, reorganized, and reanalyzed by other scholars would be a tremendous step in the right direction. &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mapping Maupassant's Bel-Ami</title>
+   <link href="http://dawnchildress.com/2015/06/01/mapping-belami/"/>
+   <updated>2015-06-01T00:00:00-04:00</updated>
+   <id>http://dawnchildress.com/2015/06/01/mapping-belami</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://dawnchildress.com/assets/images/belami.jpg&quot; alt=&quot;Marigny image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mapping Maupassant’s Bel-Ami is a collaborative project developed in the advanced undergraduate course, FR453Y: La Belle Epoque: Société et Culture en France de 1800 à 1914, taught by Dr. Willa Z. Silverman at Penn State University. This project is an example of literary cartography, following the example of similar projects, such as “&lt;a href=&quot;http://www.mappingpetersburg.org/site/&quot;&gt;Mapping St. Petersburg: Experiments in Literary Cartography&lt;/a&gt;” and “&lt;a href=&quot;http://mrsdallowaymappingproject.weebly.com&quot;&gt;Mapping Mrs. Dalloway&lt;/a&gt;.” &lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://humanitieslab.psu.edu/projects/mappingbelami/&quot;&gt;first iteration&lt;/a&gt; of the project took place in Fall 2012 and was built using a self-hosted Wordpress site and the &lt;a href=&quot;https://wordpress.org/plugins/leaflet-maps-marker/&quot;&gt;Leaflet Maps Marker plugin&lt;/a&gt;. A second layer was added to the original site in Fall of 2014.&lt;/p&gt;
+
+&lt;p&gt;We are currently working on a new framework for the project using web standards and hosted with GitHub Pages. The &lt;a href=&quot;http://dawnchildress.com/literaryparis/&quot;&gt;framework prototype&lt;/a&gt; is up and running and the source code for the new site and the for the app running the framework can be found in the &lt;a href=&quot;https://github.com/kirschbombe/literaryparis&quot;&gt;literaryparis&lt;/a&gt; and &lt;a href=&quot;https://github.com/kirschbombe/mapsandtexts&quot;&gt;mapsandtexts&lt;/a&gt; GitHub repos.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
