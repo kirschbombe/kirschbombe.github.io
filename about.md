@@ -14,3 +14,10 @@ I am a Humanities Librarian and the Sally W. Kalin Librarian for Technological I
 
 {% endif %}
 ***
+
+## Recent Posts
+<ul>
+  {% for post in site.posts limit: 5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
