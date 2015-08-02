@@ -2,7 +2,7 @@
 layout: post
 title: Mapping Maupassant's Bel-Ami
 ---
-![Marigny image]({{site.url}}/assets/images/belami.jpg)
+![Marigny image](/assets/images/belami.jpg)
 
 Mapping Maupassant’s Bel-Ami is a collaborative project developed in the advanced undergraduate course, FR453Y: La Belle Epoque: Société et Culture en France de 1800 à 1914, taught by Dr. Willa Z. Silverman at Penn State University. This project is an example of literary cartography, following the example of similar projects, such as “[Mapping St. Petersburg: Experiments in Literary Cartography](http://www.mappingpetersburg.org/site/)” and “[Mapping Mrs. Dalloway](http://mrsdallowaymappingproject.weebly.com)." 
 

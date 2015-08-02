@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Dawn Childress
 tagline:             'digital scholarship : book history : textual studies'
 description:         'The website of Dawn Childress, Humanities Librarian at Penn State'
-url:                 http://dawnchildress.com
+url:                 http://localhost:4000
 baseurl:             ''
 paginate:            5
 
