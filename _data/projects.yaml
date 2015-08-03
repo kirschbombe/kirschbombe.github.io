@@ -14,3 +14,8 @@ dh:
     url: /2015/06/01/mapping-belami/index.html
     snippet: "A digital literary cartography project for the undergraduate 'Belle-Epoque Paris' course"
     avatar: "/assets/images/belami.jpg"
+
+  - title: "Les Écrits d'Aimé Césaire: biobibliographie commentée (1913-2008)"
+    url: http://lesecritscesaire.libraries.psu.edu
+    snippet: "Work-based bibliography of the Franchophone poet and activist Aimé Césaire and his circle"
+    avatar: "/assets/images/cesaire.jpg"
