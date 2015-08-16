@@ -15,6 +15,11 @@ dh:
     snippet: "A digital literary cartography project for the undergraduate 'Belle-Epoque Paris' course"
     avatar: "/assets/images/belami.jpg"
 
+  - title: "The open bibl project"
+    url: http://dawnchildress.com/openbibl
+    snippet: "A lightweight solution for creating and publishing open, dynamic bibliographies to the web"
+    avatar: "/assets/images/screenshot.png"
+
   - title: "Les Écrits d'Aimé Césaire: biobibliographie commentée (1913-2008)"
     url: http://lesecritscesaire.libraries.psu.edu
     snippet: "Work-based bibliography of the Franchophone poet and activist Aimé Césaire and his circle"
