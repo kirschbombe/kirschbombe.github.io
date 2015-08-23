@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Projects
+title: Projects, etc.
 ---
+## Some projects, papers, and other works
 
-The projects below include digital humanities and dh pedagogy projects, papers and conference talks, as well as tutorials and workshop materials.
+The work below includes digital humanities research & pedagogy projects, papers and conference talks, as well as tutorials and workshop materials.
 
 <!-- Automatic project list generator -->
 
