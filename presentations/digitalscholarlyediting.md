@@ -18,11 +18,10 @@ Let's first consider a few historical approaches to scholarly editing:
 In many cases, digital scholarly editing attempts to recreate the rationales of these and other editorial practices, taking advantage of the digital for markup and presentation of the text structure / organization and to tag / annotate contextual info like people, places, events, and dates; to give context using links, metadata, and encoded editorial notes; to make interactive with hypertext, hovers and pop-ups for editorial info, user selected views, etc.), and for collation and versioning to compare and analyze texts.
 
 _A few example projects_
-* Chymistry of Isaac Newton:  _Note the use of normalized vs. diplomatic transcriptions._
-http://webapp1.dlib.indiana.edu/newton/browse;jsessionid=47908DE72B75BAEFFA1E3A83BA29858D
-* Lowell's "LETTER FROM A VOLUNTEER IN SALTILLO”:  _Note the presentation of multiple witnesses in one eclectic text using TEI's parallel segmentation._
-http://www.scholarlyediting.org/2015/editions/lowelledition_wit-Courier.html
-* Shelly-Godwin Archive:  _Note the choice of views, Mary Shelley’s hand or Percy Shelley’s hand._
-http://shelleygodwinarchive.org/sc/oxford/frankenstein/notebook/a#/p11
-* Petrus Plaoul: _Requires login, but the Index will get you access to some of the text. click on the “Paragraph Menu” at the end of a paragraph and try some of the “Comparison Tools”._
-http://petrusplaoul.org/indexsearch/displayindexsearch.php?index=name&type=Classical&name=Anaxagoras
+
+* Chymistry of Isaac Newton:  _Note the use of normalized vs. diplomatic transcriptions._ http://webapp1.dlib.indiana.edu/newton/browse;jsessionid=47908DE72B75BAEFFA1E3A83BA29858D
+* Lowell's "LETTER FROM A VOLUNTEER IN SALTILLO”:  _Note the presentation of multiple witnesses in one eclectic text using TEI's parallel segmentation._ http://www.scholarlyediting.org/2015/editions/lowelledition_wit-Courier.html
+* Shelly-Godwin Archive:  _Note the choice of views, Mary Shelley’s hand or Percy Shelley’s hand._ http://shelleygodwinarchive.org/sc/oxford/frankenstein/notebook/a#/p11
+* Petrus Plaoul: _Requires login, but the Index will get you access to some of the text. click on the “Paragraph Menu” at the end of a paragraph and try some of the “Comparison Tools”._ http://petrusplaoul.org/indexsearch/displayindexsearch.php?index=name&type=Classical&name=Anaxagoras
+* Selected Poems by the Baroness Elsa von Freytag-Loringhoven: _Example of the Versioning Machine_ digital.lib.umd.edu/transition/
+
