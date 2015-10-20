@@ -19,7 +19,7 @@ _A few example projects_
 * Chymistry of Isaac Newton:  _note the use of normalized vs. diplomatic transcriptions_
 http://webapp1.dlib.indiana.edu/newton/browse;jsessionid=47908DE72B75BAEFFA1E3A83BA29858D
 * Lowell's "LETTER FROM A VOLUNTEER IN SALTILLO”:  _note the presentation of multiple witnesses in one eclectic text using TEI's parallel segmentation_
-* http://www.scholarlyediting.org/2015/editions/lowelledition_wit-Courier.html
+http://www.scholarlyediting.org/2015/editions/lowelledition_wit-Courier.html
 * Shelly-Godwin Archive:  _note the choice of views, Mary Shelley’s hand or Percy Shelley’s hand_
 http://shelleygodwinarchive.org/sc/oxford/frankenstein/notebook/a#/p11
 * Petrus Plaoul: _requires login, but the Index will get you access to some of the text. click on the “Paragraph Menu” at the end of a paragraph and try some of the “Comparison Tools”.
