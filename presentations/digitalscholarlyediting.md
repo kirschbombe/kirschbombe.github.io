@@ -51,8 +51,8 @@ Encoding and markup
 
 Collation and versioning
 
-*[JuxtaCommons](http://juxtacommons.org): web-based collation platform (different from JuxtaEditions)
-*[The Versioning Machine](http://v-machine.org): framework for publishing eclectic texts encoded with TEI parallel segmentation (undergoing an update!)
+* [JuxtaCommons](http://juxtacommons.org): web-based collation platform (different from JuxtaEditions)
+* [The Versioning Machine](http://v-machine.org): framework for publishing eclectic texts encoded with TEI parallel segmentation (undergoing an update!)
 
 Publishing
 
