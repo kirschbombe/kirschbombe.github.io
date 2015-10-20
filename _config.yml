@@ -17,6 +17,9 @@ author:
   name:              Dawn Childress
   url:               dawnchildress.com
   email:             kirschbombe@gmail.com
+  
+# Conversion
+markdown:    kramdown  
 
 # Custom vars
 version:             1.0.0
