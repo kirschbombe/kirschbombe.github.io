@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Digital scholarly editing
 ---
 ###...a brief tour or practices, projects, and reources.
