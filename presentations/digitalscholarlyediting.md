@@ -25,3 +25,6 @@ _A few example projects_
 * [Petrus Plaoul](http://petrusplaoul.org/indexsearch/displayindexsearch.php?index=name&type=Classical&name=Anaxagoras): _Requires login, but the Index will get you access to some of the text. click on the “Paragraph Menu” at the end of a paragraph and try some of the “Comparison Tools”._ 
 * [Selected Poems by the Baroness Elsa von Freytag-Loringhoven](http://digital.lib.umd.edu/transition/poem?pid=umd:55435): _Example of the Versioning Machine_ 
 
+Beyond transferring editing practices from print to digital, we can expand our understanding of what it is to create an edition. Digital editions might highlight other aspects of a text, such as the physical characteristics of material objects or perhaps place, movement, and/or time using mapping/timeline interfaces, multi-spectral photography, and annotation of illustrations/images. Editions can also make use of the rich store of encoded data (our text is our data, after all) by visualizing contextual information, quires and gatherings, textual variation between witnesses, etc.
+
+* [Theodore Fontane Notebooks](https://fontane-nb.dariah.eu/tei-conf/): _Here you can view various visualizations generated from the encoded notebooks._
