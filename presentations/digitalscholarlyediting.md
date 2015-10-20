@@ -23,5 +23,5 @@ _A few example projects_
 * Lowell's "LETTER FROM A VOLUNTEER IN SALTILLO”:  _Note the presentation of multiple witnesses in one eclectic text using TEI's parallel segmentation._ http://www.scholarlyediting.org/2015/editions/lowelledition_wit-Courier.html
 * Shelly-Godwin Archive:  _Note the choice of views, Mary Shelley’s hand or Percy Shelley’s hand._ http://shelleygodwinarchive.org/sc/oxford/frankenstein/notebook/a#/p11
 * Petrus Plaoul: _Requires login, but the Index will get you access to some of the text. click on the “Paragraph Menu” at the end of a paragraph and try some of the “Comparison Tools”._ http://petrusplaoul.org/indexsearch/displayindexsearch.php?index=name&type=Classical&name=Anaxagoras
-* Selected Poems by the Baroness Elsa von Freytag-Loringhoven: _Example of the Versioning Machine_ http://digital.lib.umd.edu/transition/
+* Selected Poems by the Baroness Elsa von Freytag-Loringhoven: _Example of the Versioning Machine_ http://digital.lib.umd.edu/transition/poem?pid=umd:55435
 
