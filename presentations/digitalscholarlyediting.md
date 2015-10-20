@@ -2,7 +2,7 @@
 layout: default
 title: Digital scholarly editing
 ---
-#Digital scholarly editing: a brief tour or practices, projects, and resources.
+#Digital scholarly editing: a brief tour of practices, projects, and resources.
 
 
 > _…the digital “critical representation” of any work “does not accurately (so to speak) mirror its object; it consciously (so to speak) deforms its object… [opening] the doors of perception toward new opportunities and points of view.”_ --Jerome McGann (_Radiant Textuality_)
