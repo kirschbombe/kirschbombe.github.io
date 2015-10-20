@@ -5,6 +5,7 @@ title: Digital scholarly editing
 ###...a brief tour or practices, projects, and reources.
 
 
+
 > …the digital “critical representation” of any work “does not accurately (so to speak) mirror its object; it consciously (so to speak) deforms its object… [opening] the doors of perception toward new opportunities and points of view.”  --Jerome McGann (_Radiant Textuality_)
 
 ###Editorial rationales
