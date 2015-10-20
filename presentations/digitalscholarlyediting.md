@@ -33,29 +33,31 @@ Beyond transferring editing practices from print to digital, we can expand our u
 
 Transcribing or OCRing
 
-* T-Pen: for transcribing manuscript material
-* Juxta Editions: publishing platform for digital editions, supports transcription workflow
-* Tessearct: ope source OCR engine, utilizes training files and language libraries, best for early modern texts, fraktur, etc.
-* Abbyy Fine Reader: Commercial OCR software
+* [T-Pen](http://t-pen.org/TPEN/): web-based platform for transcribing manuscript material
+* [Juxta Editions](http://www.juxtaeditions.com): publishing platform for digital editions, supports transcription workflow
+* [Tesseract](https://code.google.com/p/tesseract-ocr/): ope source OCR engine, utilizes training files and language libraries, best for early modern texts, fraktur, etc.
+* [Abbyy FineReader](http://www.abbyy.com): Commercial OCR software
 
 Encoding and markup
 
-* Text Encoding Initiative (TEI): XML schema and guidelines for encoding text
-* oXygen: XML Editor for use with TEI
-* Juxta Editions: publishing platform for digital editions, supports encoding workflow
-* T-Pen: can do pre-formatted encoding of texts while transcribing
-* TextGrid: repository and collaboration tool for digital editions
-* GitHub
+* [Text Encoding Initiative](http://www.tei-c.org/index.xml) (TEI): XML schema and guidelines for encoding text
+* [oXygen](http://www.oxygenxml.com): XML Editor for use with TEI
+* [Juxta Editions](http://www.juxtaeditions.com): publishing platform for digital editions, supports encoding workflow
+* [T-Pen](http://t-pen.org/TPEN/): can do pre-formatted encoding of texts while transcribing
+* [TextGrid](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB4QFjAAahUKEwj86_zFhdLIAhUC1WMKHcqfAtc&url=https%3A%2F%2Ftextgrid.de%2Fen&usg=AFQjCNHkkXsDW-t5s5kUGCa5gfw4lA_3lQ): repository and collaboration tool for digital editions
+* [GitHub](https://github.com): version control and collaboration; great if multiple people are working on the same files
+* [Sublime Text](https://www.sublimetext.com): Dawn's text editor of choice
+* [XML Editey](http://www.editey.com): web-based XML editor used with Google Drive
 
 Collation and versioning
 
-*JuxtaCommons: web-based collation platform
-*The Versioning Machine: framework for publishing eclectic texts encoded with TEI parallel segmentation
+*[JuxtaCommons](http://juxtacommons.org): web-based collation platform (different from JuxtaEditions)
+*[The Versioning Machine](http://v-machine.org): framework for publishing eclectic texts encoded with TEI parallel segmentation (undergoing an update!)
 
 Publishing
 
-* TAPAS Project: repository and publishing platform for TEI encoded texts
-* Scholarly Editing: open source journal publishing small digital editions
-* Juxta Editions
-* The Versioning Machine
-* GitHub / GitHub Pages
+* [TAPAS Project](http://tapasproject.org): repository and publishing platform for TEI encoded texts
+* [Scholarly Editing](http://www.scholarlyediting.org): open source journal publishing small digital editions; they will work with you to publish your small edition!
+* [Juxta Editions](http://www.juxtaeditions.com): publishing platform for digital editions
+* [The Versioning Machine](http://v-machine.org): framework for publishing eclectic texts encoded with TEI parallel segmentation
+* [GitHub](https://github.com) / [GitHub Pages](https://pages.github.com): host, collaborate on, and publish your TEI encoded texts and transformation stylesheets
