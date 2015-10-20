@@ -27,8 +27,6 @@ _A few example projects_
 
 Beyond transferring editing practices from print to digital, we can expand our understanding of what it is to create an edition. Digital editions might highlight other aspects of a text, such as the physical characteristics of material objects or perhaps place, movement, and/or time using mapping/timeline interfaces, multi-spectral photography, and annotation of illustrations/images. Editions can also make use of the rich store of encoded data (our text is our data, after all) by visualizing contextual information, quires and gatherings, textual variation between witnesses, etc.
 
-<iframe width="600" height="400" src="https://fontane-nb.dariah.eu/tei-conf/heb/" frameborder="0"></iframe>
-
 * [Theodore Fontane Notebooks](https://fontane-nb.dariah.eu/tei-conf/): _Here you can view various visualizations generated from the encoded notebooks._
 
 ###Digital Scholarly Editing Activities (and related tools/resources)
