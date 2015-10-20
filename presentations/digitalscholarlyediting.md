@@ -15,6 +15,8 @@ Let's first consider a few historical approaches to scholarly editing:
   * Genetic: more inclusive, pre-publication versions (French school), also Genette's paratext (that which sits outside the main text)
   * Social text (McGann): critical of intentionalist editing; texts are social, historically situated, as are the author's intentions (enter versioning)
 
+In many cases, digital scholarly editing attempts to recreate the rationales of these and other editorial practices, taking advantage of the digital for markup and presentation of the text structure / organization and to tag / annotate contextual info like people, places, events, and dates; to give context using links, metadata, and encoded editorial notes; to make interactive with hypertext, hovers and pop-ups for editorial info, user selected views, etc.), and for collation and versioning to compare and analyze texts.
+
 _A few example projects_
 * Chymistry of Isaac Newton:  _note the use of normalized vs. diplomatic transcriptions_
 http://webapp1.dlib.indiana.edu/newton/browse;jsessionid=47908DE72B75BAEFFA1E3A83BA29858D
