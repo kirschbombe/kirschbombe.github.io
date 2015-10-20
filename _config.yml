@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Dawn Childress
 tagline:             'digital scholarship : book history : textual studies'
-description:         'The website of Dawn Childress, Humanities Librarian at Penn State'
+description:         'The website of Dawn Childress, UCLA Digital Library Program'
 url:                 http://dawnchildress.com
 baseurl:             ''
 paginate:            5
@@ -16,7 +16,7 @@ paginate:            5
 author:
   name:              Dawn Childress
   url:               dawnchildress.com
-  email:             kirschbombe@gmail.com
+  email:             dchildress@library.ucla.edu
   
 # Conversion
 markdown:    kramdown  
