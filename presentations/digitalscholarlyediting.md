@@ -19,9 +19,9 @@ In many cases, digital scholarly editing attempts to recreate the rationales of 
 
 _A few example projects_
 
-* Chymistry of Isaac Newton:  _Note the use of normalized vs. diplomatic transcriptions._ http://webapp1.dlib.indiana.edu/newton/browse;jsessionid=47908DE72B75BAEFFA1E3A83BA29858D
-* Lowell's "LETTER FROM A VOLUNTEER IN SALTILLO”:  _Note the presentation of multiple witnesses in one eclectic text using TEI's parallel segmentation._ http://www.scholarlyediting.org/2015/editions/lowelledition_wit-Courier.html
-* Shelly-Godwin Archive:  _Note the choice of views, Mary Shelley’s hand or Percy Shelley’s hand._ http://shelleygodwinarchive.org/sc/oxford/frankenstein/notebook/a#/p11
-* Petrus Plaoul: _Requires login, but the Index will get you access to some of the text. click on the “Paragraph Menu” at the end of a paragraph and try some of the “Comparison Tools”._ http://petrusplaoul.org/indexsearch/displayindexsearch.php?index=name&type=Classical&name=Anaxagoras
-* Selected Poems by the Baroness Elsa von Freytag-Loringhoven: _Example of the Versioning Machine_ http://digital.lib.umd.edu/transition/poem?pid=umd:55435
+* [Chymistry of Isaac Newton](http://webapp1.dlib.indiana.edu/newton/browse;jsessionid=47908DE72B75BAEFFA1E3A83BA29858D):  _Note the use of normalized vs. diplomatic transcriptions._ 
+* [Lowell's "LETTER FROM A VOLUNTEER IN SALTILLO”](http://www.scholarlyediting.org/2015/editions/lowelledition_wit-Courier.html):  _Note the presentation of multiple witnesses in one eclectic text using TEI's parallel segmentation._ 
+* [Shelly-Godwin Archive](http://shelleygodwinarchive.org/sc/oxford/frankenstein/notebook/a#/p11):  _Note the choice of views, Mary Shelley’s hand or Percy Shelley’s hand._ 
+* [Petrus Plaoul](http://petrusplaoul.org/indexsearch/displayindexsearch.php?index=name&type=Classical&name=Anaxagoras): _Requires login, but the Index will get you access to some of the text. click on the “Paragraph Menu” at the end of a paragraph and try some of the “Comparison Tools”._ 
+* [Selected Poems by the Baroness Elsa von Freytag-Loringhoven](http://digital.lib.umd.edu/transition/poem?pid=umd:55435): _Example of the Versioning Machine_ 
 
