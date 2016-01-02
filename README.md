@@ -10,6 +10,6 @@ License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
 
 ***
 
-[Dawn Childress](http://dawnchildress) | Humanities Librarian, Penn State Libraries
+[Dawn Childress](http://dawnchildress.com) | Digital Scholarship Librarian, UCLA Digital Library
 
 
