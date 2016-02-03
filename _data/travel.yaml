@@ -13,14 +13,3 @@
   url: http://dh2016.adho.org
   datestart: 2016-07-12  00:00:00 -0500
   dateend: 2016-07-16  00:00:00 -0500
-  
-  - venue: DLF Forum
-  location: Vancouver, BC
-  url: http://www.diglib.org/forums/2015forum/
-  datestart: 2015-10-26  00:00:00 -0500
-  dateend: 2015-10-28  00:00:00 -0500
-- venue: Modern Language Association Convention
-  location: Austin, TX
-  url: https://www.mla.org/convention
-  datestart: 2016-01-07 00:00:00 -0500
-  dateend: 2016-01-10 00:00:00 -0500
