@@ -8,6 +8,16 @@
   url: http://www.cdh.ucla.edu/symposium/
   datestart: 2016-02-28  00:00:00 -0500
   dateend: 2016-02-28  00:00:00 -0500
+- venue: Rails Girls LA
+  location: Los Angeles, CA
+  url: http://railsgirls.com/la
+  datestart: 2016-03-18  00:00:00 -0500
+  dateend: 2016-03-19  00:00:00 -0500
+- venue: West Coast Fedora Camp
+  location: Pasadena, CA
+  url: http://fedorarepository.org/node/294
+  datestart: 2016-04-11  00:00:00 -0500
+  dateend: 2016-04-13  00:00:00 -0500
 - venue: DH 2016
   location: Kraków, Poland
   url: http://dh2016.adho.org
