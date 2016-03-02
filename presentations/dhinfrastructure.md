@@ -5,7 +5,7 @@ title: 'Alternative Infrastructures for Digital Projects'
 
 *This is a presentation given with Andy Rutkowski at the [DH Infrastructure Symposium](http://www.cdh.ucla.edu/symposium/) at UCLA on February 26, 2016.*
 
-<iframe src="../assets/dhinfrastructure.pdf" width="700" height="420" scrolling="yes" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="{{site.url}}/assets/dhinfrastructure.pdf" width="700" height="420" scrolling="yes" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Slide 1.  Thank you to CDH for letting us be a part of this day of talks.  My name is Andy Rutkowski.  This is Dawn Childress.  We both work in UCLA’s Digital Library Program.  We will be talking about alternative infrastructures for digital projects.  For this talk we wanted to feature a project that we have been working on here at UCLA using Github in the classroom, then talk more generally about using Github and other alternative environments in the humanities.
 
