@@ -24,3 +24,6 @@ version:             1.0.0
 
 # Plugins
 gems: [jekyll-paginate]
+
+#Post excerpt
+excerpt_separator: "<!--excerpt-->"
