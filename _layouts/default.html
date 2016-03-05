@@ -15,6 +15,11 @@
           <h3 class="masthead-title">
             <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
+            <span class="social-links">
+              {% for nav in site.data.social %}
+              <a href="{{ nav.link }}" title="{{ nav.title }}"><i class="{{ nav.icon }}"></i></a>
+              {% endfor %}
+            </span>
           </h3>
         </div>
       </div>

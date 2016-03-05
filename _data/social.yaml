@@ -4,9 +4,9 @@
 - title: GitHub
   icon: "fa fa-github"
   link: "https://github.com/kirschbombe"
-# - title: RSS
-#   icon: "fa fa-rss"
-#   link: "http://dawnchildress.com/feed.xml"
+- title: RSS
+  icon: "fa fa-rss"
+  link: "http://dawnchildress.com/atom.xml"
 # - title: Email
 #   icon: "fa fa-inbox"
 #   link: "&#109;&#097;&#105;&#108;&#116;&#111;:&#109;&#108;&#105;&#110;&#099;&#111;&#108;&#049;&#064;&#117;&#109;&#100;&#046;&#101;&#100;&#117;"
