@@ -7,7 +7,7 @@ This is the virtual "_handout_" for a short introduction to digital scholarly ed
 
 > _…the digital “critical representation” of any work “does not accurately (so to speak) mirror its object; it consciously (so to speak) deforms its object… [opening] the doors of perception toward new opportunities and points of view.”_ --Jerome McGann (_Radiant Textuality_)
 
-###Editorial rationales
+### Editorial rationales
 
 Let's first consider a few historical approaches to scholarly editing:
 <!--excerpt-->
@@ -31,7 +31,7 @@ Beyond transferring editing practices from print to digital, we can expand our u
 
 * [Theodore Fontane Notebooks](https://fontane-nb.dariah.eu/tei-conf/): _Here you can view various visualizations generated from the encoded notebooks._
 
-###Digital Scholarly Editing Activities (and related tools/resources)
+### Digital Scholarly Editing Activities (and related tools/resources)
 
 Transcribing or OCRing
 
