@@ -5,7 +5,7 @@ title: 'Alternative Infrastructures for Digital Projects'
 
 *This post contains the slides and (rough) transcript of a presentation given with Andy Rutkowski at the [DH Infrastructure Symposium](http://www.cdh.ucla.edu/symposium/) at UCLA on February 26, 2016.*
 
-<iframe src="https://docs.google.com/presentation/d/1x6eaOk8WvldAFeg-xnBylnZfAopM23aPUqEziQF32dY/embed?start=false&loop=true&delayms=5000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<script async class="speakerdeck-embed" data-id="88857a0ae6734839be591a39d1c678e6" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 _Links for projects and resources mentioned are included at the end of the transcript._
 <!--excerpt-->
@@ -64,48 +64,25 @@ Slide 20.  Thank you!
 
 Slides 21 & 22. Links to sources / resources
 
-[Los Angeles: The City and the Library](https://github.com/CityStoriesUCLA/lyricalmap)
-
-[Barrio Suburbanism](http://barriosuburbanismucla.github.io/barriosuburbanism/)
-
-[Boulevardier](https://github.com/kirschbombe/boulevardier)
-
-[dawnchildress.com](http://dawnchildress.com)
-
-[Building Capacity with Care: Graduate Students and DH Work in the Library](http://dhgradlabor.github.io/dh2016workshop/)
-
-[GitLit](https://github.com/Git-Lit/git-lit)
-
-[GitBook](https://www.gitbook.com)
-
-[Crafting Digital History](https://www.gitbook.com/book/shawngraham/dh-workbook/details)
-
-[Heroku](https://www.heroku.com)
-
-[Python Anywhere](https://www.pythonanywhere.com)
-
-[Prism](http://prism.scholarslab.org)
-
-[Exquisite Haiku](http://exquisite-haiku.herokuapp.com/admin)
-
-[British Library Machine Learning Experiment](http://blbigdata.herokuapp.com)
-
-[Aristotle Metadata Registry](http://aristotle.pythonanywhere.com)
-
-[Monumental Gifts Field Notebook](http://ec2-52-91-24-93.compute-1.amazonaws.com/monuments/)
-
-[Web-based Field Notebook powered by Django](https://digitalprojectstudio.wordpress.com/2016/01/29/introducing-monumental-gifts-the-web-based-field-notebook-powered-by-django/)
-
-[Ed. A Jekyll Theme for Minimal Editions](https://github.com/elotroalex/ed)
-
-[Jekyll site in GitHub Pages: How (and Why) to Generate a Static Website Using Jekyll](http://chronicle.com/blogs/profhacker/jekyll1/60913#sthash.sXOVdmcM.dpuf)
-
-[Django Girls tutorial](http://tutorial.djangogirls.org/en/)
-
-[Annotation Studio](http://www.annotationstudio.org)
-
-[Plotly](https://plot.ly)
-
-[Odyssey.js](http://mapninja.github.io/CartoDB_Odyssey_Tutorial_for_Story_Maps/)
-
-[geojson.io](http://geojson.io/)
+* [Los Angeles: The City and the Library](https://github.com/CityStoriesUCLA/lyricalmap)
+* [Barrio Suburbanism](http://barriosuburbanismucla.github.io/barriosuburbanism/)
+* [Boulevardier](https://github.com/kirschbombe/boulevardier)
+* [Building Capacity with Care: Graduate Students and DH Work in the Library](http://dhgradlabor.github.io/dh2016workshop/)
+* [GitLit](https://github.com/Git-Lit/git-lit)
+* [GitBook](https://www.gitbook.com)
+* [Crafting Digital History](https://www.gitbook.com/book/shawngraham/dh-workbook/details)
+* [Heroku](https://www.heroku.com)
+* [Python Anywhere](https://www.pythonanywhere.com)
+* [Prism](http://prism.scholarslab.org)
+* [Exquisite Haiku](http://exquisite-haiku.herokuapp.com/admin)
+* [British Library Machine Learning Experiment](http://blbigdata.herokuapp.com)
+* [Aristotle Metadata Registry](http://aristotle.pythonanywhere.com)
+* [Monumental Gifts Field Notebook](http://ec2-52-91-24-93.compute-1.amazonaws.com/monuments/)
+* [Web-based Field Notebook powered by Django](https://digitalprojectstudio.wordpress.com/2016/01/29/introducing-monumental-gifts-the-web-based-field-notebook-powered-by-django/)
+* [Ed. A Jekyll Theme for Minimal Editions](https://github.com/elotroalex/ed)
+* [Jekyll site in GitHub Pages: How (and Why) to Generate a Static Website Using Jekyll](http://chronicle.com/blogs/profhacker/jekyll1/60913#sthash.sXOVdmcM.dpuf)
+* [Django Girls tutorial](http://tutorial.djangogirls.org/en/)
+* [Annotation Studio](http://www.annotationstudio.org)
+* [Plotly](https://plot.ly)
+* [Odyssey.js](http://mapninja.github.io/CartoDB_Odyssey_Tutorial_for_Story_Maps/)
+* [geojson.io](http://geojson.io/)
