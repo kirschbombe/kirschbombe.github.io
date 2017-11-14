@@ -45,9 +45,19 @@
   location: Victoria, BC
   url: http://www.sharp2017.com
   datestart: 2017-06-04 00:00:00 -0500
-  dateend: 2017-06-12 00:00:00 -0500 
+  dateend: 2017-06-12 00:00:00 -0500
 - venue: DH 2017
   location: Montreal, Canada
   url: https://dh2017.adho.org
   datestart: 2017-08-08  00:00:00 -0500
   dateend: 2017-08-11  00:00:00 -0500
+- venue: "The Present and Future of Digital Manuscripts: Access, Pedagogy, Scholarship"
+  location: Los Angeles, California
+  url: http://www.1718.ucla.edu/events/digital/
+  datestart: 2017-10-20  00:00:00 -0500
+  dateend: 2017-10-21  00:00:00 -0500
+- venue: MLA Convention
+  location: New York, NY
+  url: https://www.mla.org/Convention/MLA-2018
+  datestart: 2018-01-04  00:00:00 -0500
+  dateend: 2018-01-07  00:00:00 -0500
