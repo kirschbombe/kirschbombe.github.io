@@ -61,11 +61,11 @@
 #   url: https://www.mla.org/Convention/MLA-2018
 #   datestart: 2018-01-04  00:00:00 -0500
 #   dateend: 2018-01-07  00:00:00 -0500
-- venue: UC DLFx 2018
-  location: Riverside, California
-  url: https://ucdlfx2018.sched.com
-  datestart: 2018-02-27  00:00:00 -0500
-  dateend: 2018-03-01  00:00:00 -0500
+# - venue: UC DLFx 2018
+#   location: Riverside, California
+#   url: https://ucdlfx2018.sched.com
+#   datestart: 2018-02-27  00:00:00 -0500
+#   dateend: 2018-03-01  00:00:00 -0500
 - venue: >
     The Enlightenment Creation of World Religion: Bernard and Picart's "Cérémonies et coutumes religieuses" (Digital Premodern Workshop)
   location: Newberry Library, Chicago
@@ -77,3 +77,13 @@
   url: http://www.dhsi.org/
   datestart: 2018-06-04  00:00:00 -0500
   dateend: 2018-06-09  00:00:00 -0500
+- venue: Towards a Unified Model for Describing Arabic and Syriac Manuscripts: The Sinai Library Digitization Project Scholars Meeting
+  location: Athens, Greece
+  # url: http://www.dhsi.org/
+  datestart: 2018-09-12  00:00:00 -0500
+  dateend: 2018-09-14  00:00:00 -0500
+- venue: MLA Convention
+  location: Chicago, IL
+  url: https://www.mla.org/Convention/MLA-2019
+  datestart: 2019-01-03  00:00:00 -0500
+  dateend: 2019-01-06  00:00:00 -0500
