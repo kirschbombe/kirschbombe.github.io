@@ -1,8 +1,15 @@
 dh:
 
+  - title: "Flâneur"
+    url: http://dawnchildress.com/flaneur/
+    snippet: >
+      A Jekyll framework for maps, images, and texts using Leaflet and Leaflet-IIIF
+    avatar: "/assets/images/flaneur.png"
+
   - title: "Translating Networks"
     url: https://translatingnetworks.github.io
-    snippet: "Exploring literary translation communities through network analysis"
+    snippet: >
+      Exploring literary translation communities through network analysis
     avatar: "/assets/images/transnet.png"
 
   - title: "Boulevardier"
