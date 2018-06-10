@@ -1,10 +1,5 @@
 dh:
 
-  - title: "Flâneur"
-    url: https://dawnchildress.com/flaneur
-    snippet: "A Jekyll framework for maps and texts"
-    avatar: "/assets/images/flaneur.png"
-
   - title: "Translating Networks"
     url: https://translatingnetworks.github.io
     snippet: "Exploring literary translation communities through network analysis"
