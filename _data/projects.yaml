@@ -1,10 +1,5 @@
 dh:
 
-  - title: "Book Annotation Classification Engine"
-    url: https://github.com/co
-    snippet: "A Jekyll theme for maps and texts (and now IIIF!)"
-    avatar: "/assets/images/flaneur.png"
-
   - title: "Flâneur"
     url: https://dawnchildress.com/flaneur
     snippet: "A Jekyll theme for maps and texts"
