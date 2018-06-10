@@ -1,5 +1,11 @@
 dh:
 
+  - title: "Book Annotation Classification Engine"
+    url: https://github.com/collectionslab/annotations-computervision
+    snippet: >
+      Machine-learning experiments to identify and classify annotations in digitized printed books in IIIF-hosted collections
+    avatar: "/assets/images/bace.jpg"
+
   - title: "Flâneur"
     url: http://dawnchildress.com/flaneur/
     snippet: >
