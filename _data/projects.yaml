@@ -1,10 +1,15 @@
 dh:
 
+  - title: "Flâneur"
+    url: https://dawnchildress.com/flaneur
+    snippet: "A Jekyll theme for maps and texts (and now IIIF!)"
+    avatar: "/assets/images/flaneur.png"
+
   - title: "Translating Networks"
     url: https://translatingnetworks.github.io
     snippet: "Exploring literary translation communities through network analysis"
     avatar: "/assets/images/transnet.png"
-    
+
   - title: "Boulevardier"
     url: https://github.com/kirschbombe/boulevardier
     snippet: "A web application for publishing TEI-encoded text with geographic data to the web"
