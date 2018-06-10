@@ -2,7 +2,7 @@ dh:
 
   - title: "Flâneur"
     url: https://dawnchildress.com/flaneur
-    snippet: "A Jekyll theme for maps and texts"
+    snippet: "A Jekyll framework for maps and texts - and soon IIIF"
     avatar: "/assets/images/flaneur.png"
 
   - title: "Translating Networks"
