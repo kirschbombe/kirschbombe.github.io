@@ -77,10 +77,15 @@
   url: http://www.dhsi.org/
   datestart: 2018-06-04  00:00:00 -0500
   dateend: 2018-06-09  00:00:00 -0500
+- venue: JADH 2018
+  location: Tokyo, Japan
+  url: https://conf2018.jadh.org
+  datestart: 2018-09-09  00:00:00 -0500
+  dateend: 2018-09-11  00:00:00 -0500
 - venue: "Towards a Unified Model for Describing Arabic and Syriac Manuscripts: The Sinai Library Digitization Project Scholars Meeting"
   location: Athens, Greece
-  datestart: 2018-09-12  00:00:00 -0500
-  dateend: 2018-09-14  00:00:00 -0500
+  datestart: 2018-010-05  00:00:00 -0500
+  dateend: 2018-10-07  00:00:00 -0500
 - venue: Archaeologies of the Catalog
   location: MLA Convention, Chicago
   url: https://www.mla.org/Convention/MLA-2019
