@@ -72,17 +72,31 @@
 #   url: https://www.newberry.org/03152018-CCR
 #   datestart: 2018-03-15  00:00:00 -0500
 #   dateend: 2018-03-17  00:00:00 -0500
-- venue: Digital Humanities Summer Institute (DHSI)
-  location: Victoria, BC
-  url: http://www.dhsi.org/
-  datestart: 2018-06-04  00:00:00 -0500
-  dateend: 2018-06-09  00:00:00 -0500
-- venue: "Towards a Unified Model for Describing Arabic and Syriac Manuscripts: The Sinai Library Digitization Project Scholars Meeting"
+# - venue: Digital Humanities Summer Institute (DHSI)
+#   location: Victoria, BC
+#   url: http://www.dhsi.org/
+#   datestart: 2018-06-04  00:00:00 -0500
+#   dateend: 2018-06-09  00:00:00 -0500
+- venue: "JADH 2018: Leveraging Open Data"
+  paper: >
+    "Toganoo Collection of Esoteric Buddhism: A case study exploring the description and presentation of Japanese classical texts in a TEI / IIIF ecosystem"
+  location: Tokyo, Japan
+  url: https://conf2018.jadh.org/
+  datestart: 2018-09-09  00:00:00 -0700
+  dateend: 2018-09-11  00:00:00 -0700
+- venue: "TEI Conference & Members' Meeting 2018"
+  location: Tokyo, Japan
+  url: https://tei2018.dhii.asia/
+  datestart: 2018-09-09  00:00:00 -0700
+  dateend: 2018-09-13  00:00:00 -0700
+- venue: "Sinai Library Digitization Project Scholars Meeting: Towards a Unified Model for Describing Arabic and Syriac Manuscripts"
   location: Athens, Greece
-  datestart: 2018-10-05  00:00:00 -0500
-  dateend: 2018-10-07  00:00:00 -0500
-- venue: Archaeologies of the Catalog
-  location: MLA Convention, Chicago
+  datestart: 2018-10-05  00:00:00 -0700
+  dateend: 2018-10-07  00:00:00 -0700
+- venue: Modern Language Association Convention
+  paper: >
+    "Archaeologies of the Catalog"
+  location: Chicago, IL
   url: https://www.mla.org/Convention/MLA-2019
-  datestart: 2019-01-03  00:00:00 -0500
-  dateend: 2019-01-06  00:00:00 -0500
+  datestart: 2019-01-03  00:00:00 -0700
+  dateend: 2019-01-06  00:00:00 -0700

@@ -7,7 +7,12 @@
   {{ trip.venue }}
 {% endif %}
 <br>
-{{ trip.location }}: 
+{% if trip.paper %}
+  {{ trip.paper }}
+  <br>
+{% else %}
+{% endif %}
+{{ trip.location }}:
 {% if trip.dateend %}
   {{ trip.datestart | date: '%B %d, %Y' }} - {{ trip.dateend | date: '%B %d, %Y' }}
 {% else %}

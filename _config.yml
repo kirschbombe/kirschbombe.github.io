@@ -1,6 +1,7 @@
 # Permalinks
 #
 permalink:           pretty
+timezone:            America/Los_Angeles
 
 # Setup
 title:               Dawn Childress
